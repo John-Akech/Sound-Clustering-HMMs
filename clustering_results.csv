@@ -1,0 +1,11 @@
+filename,kmeans_cluster,dbscan_cluster
+sample_audio_001.wav,0,0
+sample_audio_002.wav,1,1
+sample_audio_003.wav,0,0
+sample_audio_004.wav,2,1
+sample_audio_005.wav,1,-1
+sample_audio_006.wav,0,0
+sample_audio_007.wav,2,2
+sample_audio_008.wav,1,1
+sample_audio_009.wav,0,0
+sample_audio_010.wav,2,2
