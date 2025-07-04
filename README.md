@@ -43,9 +43,9 @@ ML_Technique2/
 ├── Dataset/
 │   └── unlabelled_sounds/   # Audio files directory
 ├── sound_clustering.ipynb   # Main analysis notebook
-├── clustering_results.csv   # Generated clustering results
+├── clustering_results.csv   # Clustering results
 ├── requirements.txt         # Python dependencies
-├── README.md               # This file
+├── README.md               # This file (README.md)
 └── HMM for Flood Risk Prediction in South Sudan.pdf  # PDF Document for Part 2
 ```
 
